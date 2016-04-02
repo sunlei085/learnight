@@ -8,3 +8,4 @@ Git tracks changes of files
 Git remote origin master
 Creating a new branch is quick
 Creating a new branch is quick And simple
+Creating a new branch name is dev
